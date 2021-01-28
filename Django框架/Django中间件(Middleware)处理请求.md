@@ -126,5 +126,4 @@ MIDDLEWARE = [
 ]
 ```
 
-
-
+Django中间件
